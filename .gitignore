@@ -1,4 +1,5 @@
 data
 train
 *.csv
+*.h5
 models
